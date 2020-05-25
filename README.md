@@ -9,3 +9,5 @@ Repository: Python for data science - Full course.
 • Concatenar, juntar e mesclar
 • Operações
 • Entrada e saída de dados
+
+#### O que veremos em Numpy:
